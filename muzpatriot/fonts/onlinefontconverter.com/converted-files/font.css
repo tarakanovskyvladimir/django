@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '11773';
+  src: url('11773.eot');
+  src: url('11773.woff2') format('woff2'),
+       url('11773.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Azbuka04';
+  src: url('Azbuka04.woff') format('woff'),
+       url('Azbuka04.ttf') format('truetype'),
+       url('Azbuka04.svg#Azbuka04') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
