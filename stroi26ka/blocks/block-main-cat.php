@@ -1,0 +1,3 @@
+<li class="wp-caption-text"><a href="<?php block_field('link-cat'); ?>"><img src="<?php block_field('image-cat'); ?>" alt="<?php block_field('name-cat'); ?>" class="page_cat_img">
+<p class="name-cat"><?php block_field('name-cat'); ?></p></a></li>
+требования к типовым образцам надгробных памятников, изготавливаемых и учтаналиваемых в соответствии с нормами расходов, определенных пп рф 1994 № 460 (указание генштаба вс рф от 14.02.2002, № 328/162, 12.01.2004 г. №328/19) 89283562977
