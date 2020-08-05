@@ -1,2 +1,2 @@
-# django
-Пробное создание django
+# wordpress
+Созданные мною темы на wordpress
